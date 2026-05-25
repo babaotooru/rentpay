@@ -1,0 +1,6 @@
+{
+  "name": "RentPay",
+  "description": "PG Manager for PG/Hostel owners to manage tenants, rent collection, and payment history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
